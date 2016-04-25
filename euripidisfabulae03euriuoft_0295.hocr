@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./euripidisfabulae03euriuoft_0295.png"; bbox 0 0 1658 2740; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 226 415 1325 472">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 226 415 1325 472">
+     <span class='ocr_line' id='line_1_1' title="bbox 226 415 1325 472; baseline 0.004 -4"><span class='ocrx_word' id='word_1_1' title='bbox 226 415 682 470; x_wconf 84' lang='grc' dir='ltr'>[ΦΙΓΕΝΕΙΑ</span> <span class='ocrx_word' id='word_1_2' title='bbox 735 418 793 470; x_wconf 91' lang='lat' dir='ltr'>H</span> <span class='ocrx_word' id='word_1_3' title='bbox 846 418 961 470; x_wconf 92' lang='lat' dir='ltr'>EN</span> <span class='ocrx_word' id='word_1_4' title='bbox 1012 418 1325 472; x_wconf 78' lang='grc' dir='ltr'>ΑὙΛΙΔΙ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 625 965 911 1004">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 625 965 911 1004">
+     <span class='ocr_line' id='line_1_2' title="bbox 625 965 911 1004; baseline 0 -1"><span class='ocrx_word' id='word_1_5' title='bbox 625 965 911 1004; x_wconf 72' lang='grc' dir='ltr'>’ΥΠΟΘΕΣΙΣ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1227 2419 1289 2453">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1227 2419 1289 2453">
+     <span class='ocr_line' id='line_1_3' title="bbox 1227 2419 1289 2453; baseline 0.016 -1"><span class='ocrx_word' id='word_1_6' title='bbox 1227 2419 1289 2453; x_wconf 88' lang='grc'>18*</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
